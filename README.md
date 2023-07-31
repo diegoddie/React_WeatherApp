@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# 🌦️React Weather App using APIs!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using React and APIs from OpenWeather/RapidAPI.
+You can choose a city by typing the name in the search bar and BOOM! This simple app shows you the weather and forecasts for the next 7 days! (+ other info like humidity, wind ..).
+I deployed the project at --> 
 
 ## Available Scripts
 
