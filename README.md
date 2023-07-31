@@ -2,7 +2,7 @@
 
 This project was created using React and APIs from OpenWeather/RapidAPI.
 You can choose a city by typing the name in the search bar and BOOM! This simple app shows you the weather and forecasts for the next 7 days! (+ other info like humidity, wind ..).
-I deployed the project at --> 
+I deployed the project at --> https://react-weather-app-fn7f.vercel.app/
 
 ## Available Scripts
 
